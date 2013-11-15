@@ -1,4 +1,4 @@
 x1b2j.github.io
 ===============
 
-my website
+explaning x1b2j
